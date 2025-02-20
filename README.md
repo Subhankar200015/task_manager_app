@@ -12,13 +12,16 @@ Make sure you have the following installed:
 ### 📥 Installation
 
 1. **Clone the repository**
+   ```sh
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
    
-2. **Install dependencies**
+3. **Install dependencies**
+   ```sh
    npm install
 
-3. **Start the application**
+5. **Start the application**
+   ```sh
    npm start
 
    Runs the app in development mode. Open http://localhost:3000 to view it in the browser.
