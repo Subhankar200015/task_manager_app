@@ -13,8 +13,8 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Subhankar200015/task_manager_app.git
+   cd task_manager_app
    ```
    
 3. **Install dependencies**
